@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hey there, I’m Aashita ! <br>I’m a B.Tech student studying Artificial Intelligence and Data Science, and I genuinely enjoy learning how data and models can solve real problems.<br>I like working with Python, experimenting with machine learning ideas, and building small projects to understand concepts better.<br>Right now, I’m exploring deep learning and applied AI while improving my problem-solving skills through hands-on work.
+ Hey there, I’m Aashita ! <br>I’m a B.Tech student studying Artificial Intelligence and Data Science, and I genuinely enjoy learning how data and models can solve real problems.<br>I like working with Python, experimenting with machine learning ideas, and building projects to understand concepts better.<br>Right now, I’m exploring deep learning and applied AI while improving my problem-solving skills through hands-on work.
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=aashita-n&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aashita-n&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashita-n&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aashita-n&icon=0&color=0)](https://visitcount.itsvg.in)
